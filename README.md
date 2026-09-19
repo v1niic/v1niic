@@ -10,3 +10,8 @@
 </div>
 
 ![Snake animation](https://github.com/v1niic/v1niic/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1niic/v1niic/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1niic/v1niic/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1niic/v1niic/output/github-snake.svg" />
+</picture>
