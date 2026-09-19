@@ -1,13 +1,16 @@
 ## Oii, eu sou o Vini!
 -🧑🏼‍💻 Estudante de Programação em Desenvolvimento Web.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java&perline=7" alt="Programming Languages"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=v1niic&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages"/>
+</p>
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=v1niic&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1niic/v1niic/output/github-snake-dark.svg" />
