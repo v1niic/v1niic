@@ -1,4 +1,4 @@
-                                                          ## Oii, eu sou o Vini!
+<h1 align="center">  Oii, eu sou o Vini!
 <p align="center"> -🧑🏼‍💻 Estudante de Programação em Desenvolvimento Web.
 
 <p align="center">
