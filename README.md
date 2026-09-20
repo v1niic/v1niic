@@ -1,5 +1,5 @@
-## Oii, eu sou o Vini!
--🧑🏼‍💻 Estudante de Programação em Desenvolvimento Web.
+                                                          ## Oii, eu sou o Vini!
+<p align="center"> -🧑🏼‍💻 Estudante de Programação em Desenvolvimento Web.
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java&perline=7" alt="Programming Languages"/>
